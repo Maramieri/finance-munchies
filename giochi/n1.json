@@ -1,1 +1,272 @@
-{"numero":1,"data":"7 novembre 2026","quiz":[{"n":"1","ans":"B","text":"Di quanto è salito il FTSE MIB nella settimana chiusa il 6 novembre?","opts":["−2,7%","+1,12%","+3,4%"],"spiegazione":"+1,12%. Il −2,7% è l'S&P 500, il −3,4% (non +3,4%) è il Nasdaq."},{"n":"2","ans":"C","text":"Quale banca centrale ha alzato i tassi il 5 novembre?","opts":["Federal Reserve","BCE","Bank of England"],"spiegazione":"la Bank of England ha portato il Bank Rate dal 3,75% al 4,00%, primo rialzo in tre anni. Fed e BCE erano ferme."},{"n":"3","ans":"C","text":"Uno spread Btp-Bund di 107,4 punti base significa che il Btp a 10 anni rende in più rispetto al Bund:","opts":["107,4%","10,74%","1,074%"],"spiegazione":"un punto base è un centesimo di punto percentuale: 107,4 pb = 1,074 punti in più di rendimento."},{"n":"4","ans":"B","text":"Se i tassi di mercato salgono, il prezzo di un'obbligazione già in circolazione:","opts":["sale","scende","non cambia"],"spiegazione":"scende. Le nuove emissioni pagano di più e il vecchio titolo, con una cedola più bassa, vale meno: è il motivo del −1,42% di AGGH da inizio anno."},{"n":"5","ans":"C","text":"PAC da 1.000 € al mese: se la quota dell'ETF scende da 100 a 80 €, quante quote compri?","opts":["8","10","12,5"],"spiegazione":"1.000 ÷ 80 = 12,5 quote, contro le 10 comprate a 100 €. È il vantaggio del PAC nelle fasi di ribasso."},{"n":"6","ans":"B","text":"Su 10.000 € investiti, un ETF con TER dello 0,20% costa all'anno circa:","opts":["2 €","20 €","200 €"],"spiegazione":"10.000 × 0,20% = 20 € l'anno, trattenuti dal valore della quota, non addebitati a parte."},{"n":"7","ans":"A","text":"Un VIX in forte salita (+32% in una settimana) indica:","opts":["più paura e volatilità","Borse in rialzo","inflazione in calo"],"spiegazione":"il VIX misura la volatilità attesa sull'S&P 500 nei prossimi 30 giorni, ricavata dai prezzi delle opzioni. Sale quando cresce la paura."},{"n":"8","ans":"B","text":"Con la «regola del 72», un capitale che rende il 6% annuo composto raddoppia in circa:","opts":["6 anni","12 anni","20 anni"],"spiegazione":"72 ÷ 6 = 12 anni. Con la capitalizzazione composta esatta servono 11,9 anni."}],"vf":[{"n":"1","ans":"V","text":"L'83% delle società dell'S&P 500 che hanno pubblicato i conti del 3° trimestre ha battuto le stime.","spiegazione":"435 società su 500 avevano pubblicato i conti; l'83% sopra le stime."},{"n":"2","ans":"F","text":"Il 29 ottobre la BCE ha alzato il tasso sui depositi al 2,75%.","spiegazione":"il 29 ottobre la BCE ha lasciato i tassi fermi al 2,50%. Il 2,75% è il rialzo che il mercato si aspetta a dicembre."},{"n":"3","ans":"V","text":"Il TER di VWCE, l'ETF Vanguard FTSE All-World, è lo 0,14% l'anno.","spiegazione":"0,14% l'anno, dato justETF."},{"n":"4","ans":"F","text":"Un ETF ad accumulazione («Acc») accredita i dividendi sul conto dell'investitore.","spiegazione":"un ETF «Acc» reinveste i dividendi nel fondo. Li paga sul conto solo la versione «Dist» a distribuzione, come IMIB."},{"n":"5","ans":"F","text":"Diversificare su migliaia di titoli elimina del tutto il rischio di perdita.","spiegazione":"la diversificazione riduce il rischio legato al singolo titolo, non quello dell'intero mercato."},{"n":"6","ans":"V","text":"Giovedì 5 novembre il Nasdaq ha vissuto la peggior seduta da aprile 2025.","spiegazione":"−5,5% per il Nasdaq Composite, peggior seduta da aprile 2025."},{"n":"7","ans":"F","text":"Con inflazione al 3% e un conto deposito che rende il 2% lordo, il potere d'acquisto dei risparmi cresce.","spiegazione":"il rendimento reale è negativo: circa 2% − 3% = −1% l'anno, e ancora meno dopo il 26% di tasse sugli interessi."},{"n":"8","ans":"V","text":"Con lo spread positivo, il Btp a 10 anni rende più del Bund tedesco di pari durata.","spiegazione":"lo spread è proprio la differenza tra i due rendimenti: 4,32% per il Btp, 107,4 pb sopra il Bund."}],"cruciverba":{"righe":14,"colonne":16,"griglia":[".B...........O..",".T.F.........R..","SPREAD....CEDOLA","...R...B....I..Z",".WARSH.U.R..V..I","...A...Y.A.VIX.O",".TER...B.T..D..N",".O.INFLAZIONE..E",".R..A..C.N..N...",".OPAS..K.G..D.I.","....D.P.....ORSO","...LAGARDE....I.","....Q.C..T..BUND",".........F......"],"orizzontali":[[4,6,"Differenza di rendimento tra Btp e Bund: 107,4 punti base venerdì"],[5,6,"Interesse periodico pagato da un'obbligazione"],[9,5,"Presidente della Federal Reserve"],[11,3,"L'indice della paura di Wall Street: 25,7 venerdì"],[12,3,"Costo totale annuo di un ETF, in percentuale"],[13,10,"Aumento generale dei prezzi: nell'eurozona al 3,8% a settembre"],[15,4,"Offerta pubblica di acquisto e scambio: Intesa la lancia su MPS"],[18,4,"Animale simbolo del mercato al ribasso"],[19,7,"Lascerà la presidenza della BCE il 7 febbraio 2027"],[21,4,"Titolo di Stato tedesco a 10 anni, metro di paragone del Btp"]],"verticali":[[1,3,"Buono del Tesoro poliennale"],[2,3,"Bene rifugio per eccellenza, si misura in once"],[3,7,"Ha alzato la guidance 2026 per la seconda volta"],[6,9,"Quota dell'utile distribuita agli azionisti"],[7,6,"Quota del capitale di una società"],[8,7,"Riacquisto di azioni proprie da parte di una società"],[10,6,"Giudizio di un'agenzia sul merito di credito"],[12,4,"Animale simbolo del mercato al rialzo"],[14,6,"Indice tecnologico USA: −5,5% giovedì 5 novembre"],[16,4,"Codice di 12 caratteri che identifica un titolo"],[17,3,"Piano di accumulo: si investe una cifra fissa ogni mese"],[20,3,"Fondo quotato in Borsa che replica un indice"]]}}
+{
+ "numero": 1,
+ "data": "15 novembre 2026",
+ "quiz": [
+  {
+   "n": "1",
+   "ans": "B",
+   "text": "Di quanto è salito il FTSE MIB nella settimana 9–13 novembre?",
+   "opts": [
+    "+0,10%",
+    "+3,61%",
+    "+6,46%"
+   ],
+   "spiegazione": "+3,61%, da 50.052,96 a 51.858,51 punti. Lo +0,10% è la sola seduta di venerdì, il +6,46% è il Nikkei di Tokyo."
+  },
+  {
+   "n": "2",
+   "ans": "C",
+   "text": "Quale agenzia ha confermato venerdì il rating BBB+ dell'Italia?",
+   "opts": [
+    "Fitch",
+    "Moody's",
+    "S&P"
+   ],
+   "spiegazione": "S&P Global ha confermato BBB+ con prospettiva positiva venerdì sera, a Borse chiuse. Fitch questa settimana ha alzato il rating di TIM."
+  },
+  {
+   "n": "3",
+   "ans": "A",
+   "text": "Quanto ha guadagnato UniCredit nel 3° trimestre 2026?",
+   "opts": [
+    "3,26 mld €",
+    "9,4 mld €",
+    "11,5 mld €"
+   ],
+   "spiegazione": "3,26 miliardi (+23,9%). 9,4 miliardi è l'utile dei nove mesi; 11,5 miliardi è la soglia che la banca prevede di superare nel 2026."
+  },
+  {
+   "n": "4",
+   "ans": "A",
+   "text": "Se il prezzo di un Treasury già in circolazione scende, il suo rendimento:",
+   "opts": [
+    "sale",
+    "scende",
+    "non cambia"
+   ],
+   "spiegazione": "sale. La cedola resta la stessa ma costa meno comprarla: chi entra ora guadagna di più in percentuale. Prezzo e rendimento si muovono sempre in direzione opposta."
+  },
+  {
+   "n": "5",
+   "ans": "B",
+   "text": "Un acconto di 3 € su un'azione che vale 83 € rende, lordo, circa:",
+   "opts": [
+    "0,36%",
+    "3,6%",
+    "36%"
+   ],
+   "spiegazione": "3 ÷ 83 = 0,036, cioè circa il 3,6% lordo. Al netto del 26% di tasse resta circa il 2,7%."
+  },
+  {
+   "n": "6",
+   "ans": "B",
+   "text": "Chi guida Nvidia ad interim dopo le dimissioni di Jensen Huang?",
+   "opts": [
+    "Lisa Su",
+    "Colette Kress",
+    "Kevin Warsh"
+   ],
+   "spiegazione": "Colette Kress, già direttrice finanziaria. Lisa Su guida AMD, Kevin Warsh presiede la Fed."
+  },
+  {
+   "n": "7",
+   "ans": "A",
+   "text": "L'euro scende da 1,115 a 1,102 dollari. Per chi ha azioni USA, a prezzi in dollari fermi, il valore in euro:",
+   "opts": [
+    "sale",
+    "scende",
+    "non cambia"
+   ],
+   "spiegazione": "sale. Ogni dollaro vale più euro: 1.000 $ passano da circa 897 € a circa 907 €. Il cambio può aiutare o pesare quanto il titolo."
+  },
+  {
+   "n": "8",
+   "ans": "B",
+   "text": "Con prezzi in crescita del 5% l'anno, con la «regola del 72» raddoppiano in circa:",
+   "opts": [
+    "7 anni",
+    "14 anni",
+    "25 anni"
+   ],
+   "spiegazione": "72 ÷ 5 = 14,4 anni. Vale per i prezzi come per un capitale: è la forza dell'interesse composto."
+  }
+ ],
+ "vf": [
+  {
+   "n": "1",
+   "ans": "F",
+   "text": "Nel 3° trimestre il Pil italiano è cresciuto dello 0,4% sul trimestre precedente.",
+   "spiegazione": "il Pil italiano è rimasto fermo (0,0%). Lo +0,4% è la crescita dell'eurozona."
+  },
+  {
+   "n": "2",
+   "ans": "V",
+   "text": "Jensen Huang ha lasciato la guida di Nvidia giovedì 12 novembre.",
+   "spiegazione": "dimissioni con effetto immediato giovedì 12 novembre, dopo un'indagine interna del consiglio."
+  },
+  {
+   "n": "3",
+   "ans": "V",
+   "text": "A ottobre i prezzi al consumo USA sono saliti dello 0,4% in un mese, più delle attese.",
+   "spiegazione": "+0,4% contro lo 0,3% atteso; il dato core +0,3% contro 0,2%."
+  },
+  {
+   "n": "4",
+   "ans": "F",
+   "text": "Se lo spread scende da 107 a 104 punti base, il Btp rende di più rispetto al Bund.",
+   "spiegazione": "se lo spread scende, la differenza di rendimento si riduce: il Btp rende meno in più rispetto al Bund, segno di maggiore fiducia."
+  },
+  {
+   "n": "5",
+   "ans": "V",
+   "text": "Nella settimana il VIX è sceso da circa 25,6 a 19,3: meno paura sui mercati.",
+   "spiegazione": "da 25,6 a 19,30. Il VIX misura la volatilità attesa sull'S&P 500: quando scende, la paura cala."
+  },
+  {
+   "n": "6",
+   "ans": "F",
+   "text": "Il TER di un ETF si paga a parte, con un addebito annuale sul conto titoli.",
+   "spiegazione": "il TER è già trattenuto ogni giorno dal valore della quota, non compare come addebito separato."
+  },
+  {
+   "n": "7",
+   "ans": "F",
+   "text": "Chi compra un'azione il giorno dello stacco ha diritto a quel dividendo.",
+   "spiegazione": "il dividendo spetta a chi possiede il titolo il giorno prima dello stacco. Chi compra il giorno dello stacco paga già un prezzo «senza dividendo»."
+  },
+  {
+   "n": "8",
+   "ans": "V",
+   "text": "Un ETF a distribuzione («Dist») paga i proventi all'investitore.",
+   "spiegazione": "la versione «Dist» paga i proventi, come IMIB due volte l'anno; la «Acc» li reinveste nel fondo."
+  }
+ ],
+ "cruciverba": {
+  "righe": 13,
+  "colonne": 16,
+  "griglia": [
+   ".H..O....ETF....",
+   ".O.SPREAD..I...O",
+   ".R..A..C...N...R",
+   ".M..S..CPI.CISCO",
+   "BUND.D.O.N.A....",
+   ".Z.I.O.N.F.N....",
+   "...VOLATILITA...",
+   "...I.L.O.A.I.F..",
+   "NVIDIA...Z.E.E..",
+   "...E.R.UNICREDIT",
+   "P..N.O...O.I...E",
+   "A..D.....N.....R",
+   "CEDOLA.TREASURY."
+  ],
+  "orizzontali": [
+   [
+    3,
+    3,
+    "Fondo quotato che replica un indice"
+   ],
+   [
+    5,
+    6,
+    "Differenza di rendimento tra Btp e Bund"
+   ],
+   [
+    8,
+    3,
+    "Sigla dell'indice dei prezzi al consumo USA"
+   ],
+   [
+    10,
+    5,
+    "Gigante delle reti: conti sopra le attese, titolo giù"
+   ],
+   [
+    11,
+    4,
+    "Titolo di Stato tedesco"
+   ],
+   [
+    14,
+    10,
+    "Quanto oscilla un prezzo"
+   ],
+   [
+    16,
+    6,
+    "Colosso dei chip rimasto senza il fondatore alla guida"
+   ],
+   [
+    17,
+    9,
+    "Banca che ha chiuso il miglior trimestre della sua storia"
+   ],
+   [
+    20,
+    6,
+    "Interesse periodico di un'obbligazione"
+   ],
+   [
+    21,
+    8,
+    "Titolo di Stato USA: a 10 anni rende oltre il 5%"
+   ]
+  ],
+  "verticali": [
+   [
+    1,
+    6,
+    "Lo stretto delle petroliere colpite da mine"
+   ],
+   [
+    2,
+    4,
+    "Offerta di acquisto e scambio di Intesa su MPS"
+   ],
+   [
+    4,
+    11,
+    "Gruppo navale, il peggiore del FTSE MIB venerdì"
+   ],
+   [
+    6,
+    7,
+    "Anticipo sul dividendo: UniCredit lo stacca il 23/11"
+   ],
+   [
+    7,
+    3,
+    "Bene rifugio sceso sotto 3.900 dollari"
+   ],
+   [
+    9,
+    10,
+    "Aumento generale dei prezzi"
+   ],
+   [
+    12,
+    9,
+    "Parte dell'utile pagata agli azionisti"
+   ],
+   [
+    13,
+    7,
+    "Valuta USA, ai massimi da aprile 2025 contro l'euro"
+   ],
+   [
+    15,
+    3,
+    "La banca centrale degli Stati Uniti"
+   ],
+   [
+    18,
+    3,
+    "Costo annuo di un ETF"
+   ],
+   [
+    19,
+    3,
+    "Piano di accumulo, in sigla"
+   ]
+  ]
+ }
+}
